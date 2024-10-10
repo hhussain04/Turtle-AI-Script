@@ -42,10 +42,6 @@ When prompted, enter a description of the shape you want to draw (e.g., "blue sq
 4. The script filters and validates these commands
 5. Valid commands are executed to draw the shape
 
-## Contributing
-
-Feel free to open issues or submit pull requests!
-
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
