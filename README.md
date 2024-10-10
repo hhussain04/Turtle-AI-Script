@@ -11,8 +11,8 @@ This Python script uses the Groq API to generate turtle graphics commands based 
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/yourusername/turtle-graphics-ai.git
-cd turtle-graphics-ai
+git clone https://github.com/hhussain/Turtle-Ai-Script.git
+cd Turtle-Ai-Scrip
 ```
 
 2. Install required packages:
@@ -20,16 +20,16 @@ cd turtle-graphics-ai
 pip install python-dotenv groq
 ```
 
-3. Create a `.env` file in the project directory and add your Groq API key:
+3. Create a `.env` file in the project directory and add your Groq API key (NOTE YOU MUST SIGN UP TO GROQ TO GET A KEY, IT IS FREE):
 ```
 GROQ_API_KEY=your_api_key_here
 ```
 
 ## Usage
 
-Run the script:
+Run the script (you can rename the file if you wish):
 ```bash
-python turtle_graphics.py
+python main.py
 ```
 
 When prompted, enter a description of the shape you want to draw (e.g., "blue square", "red circle", "green star").
@@ -41,11 +41,6 @@ When prompted, enter a description of the shape you want to draw (e.g., "blue sq
 3. The API returns turtle graphics commands
 4. The script filters and validates these commands
 5. Valid commands are executed to draw the shape
-
-## Safety and Security
-
-- The script uses environment variables to keep the API key secure
-- Only specific turtle commands are allowed to ensure safe execution
 
 ## Contributing
 
