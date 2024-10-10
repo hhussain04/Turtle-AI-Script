@@ -11,7 +11,7 @@ This Python script uses the Groq API to generate turtle graphics commands based 
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/hhussain/Turtle-Ai-Script.git
+git clone https://github.com/hhussain04/Turtle-Ai-Script.git
 cd Turtle-Ai-Scrip
 ```
 
