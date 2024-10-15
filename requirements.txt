@@ -1,0 +1,6 @@
+
+turtle
+re
+os
+groq
+python-dotenv
